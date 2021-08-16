@@ -333,6 +333,7 @@ tr:last-child {
 
     .tab-content button {
         margin: 1em auto;
+        font-size: 0.8rem;
     }
 
     table {
